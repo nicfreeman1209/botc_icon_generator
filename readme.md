@@ -4,4 +4,4 @@ To use:
 - run the script
 - pick your files out from ./generated
 
-Repoo contains example masks + generated icons from the homebrew All Hat And No Cattle 
+Repo contains example masks + generated icons from the homebrew All Hat And No Cattle 
